@@ -1,0 +1,11 @@
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/bin/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.deps.json
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/bin/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.runtimeconfig.json
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/bin/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.runtimeconfig.dev.json
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/bin/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.dll
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/bin/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.pdb
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/obj/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.csprojAssemblyReference.cache
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/obj/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/obj/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.AssemblyInfoInputs.cache
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/obj/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.AssemblyInfo.cs
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/obj/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.dll
+/home/daovanduc/Desktop/OOP/GiaiPhuongTrinhBacHai/obj/Debug/netcoreapp2.2/GiaiPhuongTrinhBacHai.pdb
