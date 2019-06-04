@@ -45,8 +45,8 @@ class Quadratic
         }
         else if (delta == 0)
         {
-            r.Root1 = (double)(-b / (2 * a));
-            r.Root2 = (double)(-b / (2 * a));
+            r.Root1 = GetDualRoots();
+            r.Root2 = GetDualRoots();
             r.RootsNumber = 1;
             return r;
         }
